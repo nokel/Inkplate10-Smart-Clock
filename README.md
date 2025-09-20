@@ -1,5 +1,7 @@
 ==Inkplate 10 Wise Clock==
 
+ ![alt text](https://github.com/nokel/Inkplate10-Smart-Clock/blob/main/clock.jpg?raw=true)
+
 This project runs on the Inkplate 10 e-paper display.
 It pulls local MQTT information and shows:
 
