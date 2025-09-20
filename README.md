@@ -49,7 +49,7 @@ The following fonts were generated using truetype2gfx (which in turn uses Adafru
 
  -Credentials (creds.ino)-
 
-Edit this file for the clock to gain information from wfi, and mqtt.
+Edit this file for the clock to gain information from wifi, and mqtt.
 
 ==Usage==
 
