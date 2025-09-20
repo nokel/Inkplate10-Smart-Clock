@@ -25,6 +25,8 @@ To make the clock more visually appealing (and update faster), partial screen re
   
   - Boot loading screen and debug variable for locating partial refresh boundry boxes
 
+  - Uses both CPU's of the esp32 on the inkplate for parallel processing
+
 ==Requirements==
 
   -Libraries-
